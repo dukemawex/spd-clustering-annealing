@@ -1,0 +1,4 @@
+imp_max=0.03: NO-safeguard faith=0.00e+00 spec=17/40 | SAFEGUARD faith=0.00e+00 spec=17/40
+imp_max=0.06: NO-safeguard faith=0.00e+00 spec=23/40 | SAFEGUARD faith=0.00e+00 spec=23/40
+saved
+DONE

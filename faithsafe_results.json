@@ -1,0 +1,24 @@
+[
+  {
+    "imp_max": 0.03,
+    "no_safeguard": {
+      "faith": 0.0,
+      "spec": "17/40"
+    },
+    "safeguard": {
+      "faith": 0.0,
+      "spec": "17/40"
+    }
+  },
+  {
+    "imp_max": 0.06,
+    "no_safeguard": {
+      "faith": 0.0,
+      "spec": "23/40"
+    },
+    "safeguard": {
+      "faith": 0.0,
+      "spec": "23/40"
+    }
+  }
+]
