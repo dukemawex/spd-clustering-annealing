@@ -53,3 +53,8 @@ python cluster.py
 - Bushnaq, Braun, Sharkey (2025). *Stochastic Parameter Decomposition.* arXiv:2506.20790.
 - Braun et al. (2025). *Attribution-based Parameter Decomposition.* arXiv:2501.14926.
 - Elhage et al. (2022). *Toy Models of Superposition.* Anthropic.
+
+---
+
+## Implemented next step: faithfulness-safeguarded longer schedule
+See `next_faithsafe_schedule.py`. Higher imp_max raised specialization (17→23/40) while faithfulness held; the safeguard is a no-op at this budget (drift is a longer-schedule artifact).
